@@ -1,2 +1,2 @@
 # kushal98.github.io
-Demo of webAR
+My Personal Website
